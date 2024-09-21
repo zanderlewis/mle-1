@@ -2,6 +2,11 @@
 name = "mle1"
 version = "0.0.1"
 edition = "2021"
+authors = ["Zander Lewis <zander@zanderlewis.dev>"]
+description = "The MLE-1 encryption algorithm."
+license = "MIT"
+repository = "https://github.com/zanderlewis/mle1"
+readme = "README.md"
 
 [dependencies]
 rand = "0.8"
