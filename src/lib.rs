@@ -31,6 +31,7 @@ pub fn generate_dummy_data() -> String {
         .collect()
 }
 
+#[cfg(test)]
 fn main() {
     let key = "supersecretkey";
     let data = "real_data_yaa";
