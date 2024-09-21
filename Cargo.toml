@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Zander Lewis <zander@zanderlewis.dev>"]
 description = "The MLE-1 encryption algorithm."
 license = "MIT"
-repository = "https://github.com/zanderlewis/mle1"
+repository = "https://github.com/zanderlewis/mle-1"
 readme = "README.md"
 
 [dependencies]
