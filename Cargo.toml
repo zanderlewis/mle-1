@@ -1,6 +1,6 @@
 [package]
 name = "mle1"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["Zander Lewis <zander@zanderlewis.dev>"]
 description = "The MLE-1 encryption algorithm."
